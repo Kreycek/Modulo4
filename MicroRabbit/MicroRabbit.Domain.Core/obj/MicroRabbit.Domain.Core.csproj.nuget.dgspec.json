@@ -41,6 +41,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.VisualStudio.Shell.Framework": {
+              "target": "Package",
+              "version": "[16.9.31024.71, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

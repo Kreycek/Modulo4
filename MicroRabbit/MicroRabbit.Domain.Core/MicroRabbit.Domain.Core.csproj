@@ -5,9 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Bus\" />
-    <Folder Include="Commands\" />
-    <Folder Include="Events\" />
+    <PackageReference Include="MediatR" Version="9.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Shell.Framework" Version="16.9.31024.71" />
   </ItemGroup>
 
 </Project>
