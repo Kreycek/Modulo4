@@ -1,0 +1,15 @@
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MIcrosoft.Banking.Data\bin\Debug\netcoreapp3.1\MIcrosoft.Banking.Data.deps.json
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MIcrosoft.Banking.Data\bin\Debug\netcoreapp3.1\MIcrosoft.Banking.Data.dll
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MIcrosoft.Banking.Data\obj\Debug\netcoreapp3.1\MIcrosoft.Banking.Data.AssemblyInfoInputs.cache
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MIcrosoft.Banking.Data\obj\Debug\netcoreapp3.1\MIcrosoft.Banking.Data.AssemblyInfo.cs
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MIcrosoft.Banking.Data\obj\Debug\netcoreapp3.1\MIcrosoft.Banking.Data.csprojAssemblyReference.cache
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MIcrosoft.Banking.Data\bin\Debug\netcoreapp3.1\MIcrosoft.Banking.Data.runtimeconfig.json
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MIcrosoft.Banking.Data\bin\Debug\netcoreapp3.1\MIcrosoft.Banking.Data.runtimeconfig.dev.json
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MIcrosoft.Banking.Data\obj\Debug\netcoreapp3.1\MIcrosoft.Banking.Data.genruntimeconfig.cache
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MIcrosoft.Banking.Data\bin\Debug\netcoreapp3.1\MIcrosoft.Banking.Data.pdb
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MIcrosoft.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.dll
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MIcrosoft.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.pdb
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MIcrosoft.Banking.Data\obj\Debug\netcoreapp3.1\MIcrosoft.Banking.Data.csproj.CoreCompileInputs.cache
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MIcrosoft.Banking.Data\obj\Debug\netcoreapp3.1\MIcrosoft.Banking.Data.csproj.CopyComplete
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MIcrosoft.Banking.Data\obj\Debug\netcoreapp3.1\MIcrosoft.Banking.Data.dll
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MIcrosoft.Banking.Data\obj\Debug\netcoreapp3.1\MIcrosoft.Banking.Data.pdb
