@@ -97,5 +97,4 @@ C:\Udemy\MicroServices\Modulo4\MicroRabbit\MicroRabbit.Baking.Api\bin\Debug\netc
 C:\Udemy\MicroServices\Modulo4\MicroRabbit\MicroRabbit.Baking.Api\bin\Debug\netcoreapp3.1\System.Web.Http.dll
 C:\Udemy\MicroServices\Modulo4\MicroRabbit\MicroRabbit.Baking.Api\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
 C:\Udemy\MicroServices\Modulo4\MicroRabbit\MicroRabbit.Baking.Api\obj\Debug\netcoreapp3.1\MicroRabbit.Baking.Api.csproj.CoreCompileInputs.cache
-C:\Udemy\MicroServices\Modulo4\MicroRabbit\MicroRabbit.Baking.Api\obj\Debug\netcoreapp3.1\MicroRabbit.Baking.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Udemy\MicroServices\Modulo4\MicroRabbit\MicroRabbit.Baking.Api\obj\Debug\netcoreapp3.1\MicroRabbit.Baking.Api.MvcApplicationPartsAssemblyInfo.cache

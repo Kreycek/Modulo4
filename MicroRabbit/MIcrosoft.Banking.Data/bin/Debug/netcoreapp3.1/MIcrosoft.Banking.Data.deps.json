@@ -26,6 +26,14 @@
           }
         }
       },
+      "MediatR/9.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/MediatR.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.0.0"
+          }
+        }
+      },
       "Microsoft.CSharp/4.7.0": {},
       "Microsoft.Data.SqlClient/2.0.1": {
         "dependencies": {
@@ -352,6 +360,55 @@
       },
       "Microsoft.NETCore.Platforms/3.1.0": {},
       "Microsoft.NETCore.Targets/1.1.3": {},
+      "Microsoft.VisualStudio.Shell.Framework/16.9.31024.71": {
+        "runtime": {
+          "lib/net472/Microsoft.VisualStudio.Shell.Framework.dll": {
+            "assemblyVersion": "16.0.0.0",
+            "fileVersion": "16.9.31024.71"
+          }
+        },
+        "resources": {
+          "lib/net472/cs/Microsoft.VisualStudio.Shell.Framework.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/net472/de/Microsoft.VisualStudio.Shell.Framework.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net472/es/Microsoft.VisualStudio.Shell.Framework.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net472/fr/Microsoft.VisualStudio.Shell.Framework.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net472/it/Microsoft.VisualStudio.Shell.Framework.resources.dll": {
+            "locale": "it"
+          },
+          "lib/net472/ja/Microsoft.VisualStudio.Shell.Framework.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net472/ko/Microsoft.VisualStudio.Shell.Framework.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/net472/pl/Microsoft.VisualStudio.Shell.Framework.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/net472/pt/Microsoft.VisualStudio.Shell.Framework.resources.dll": {
+            "locale": "pt"
+          },
+          "lib/net472/ru/Microsoft.VisualStudio.Shell.Framework.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net472/tr/Microsoft.VisualStudio.Shell.Framework.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/net472/zh-Hans/Microsoft.VisualStudio.Shell.Framework.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "lib/net472/zh-Hant/Microsoft.VisualStudio.Shell.Framework.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        }
+      },
       "Microsoft.Win32.Registry/4.7.0": {
         "dependencies": {
           "System.Security.AccessControl": "4.7.0",
@@ -1085,8 +1142,20 @@
         }
       },
       "MicroRabbit.Banking.Domain/1.0.0": {
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0"
+        },
         "runtime": {
           "MicroRabbit.Banking.Domain.dll": {}
+        }
+      },
+      "MicroRabbit.Domain.Core/1.0.0": {
+        "dependencies": {
+          "MediatR": "9.0.0",
+          "Microsoft.VisualStudio.Shell.Framework": "16.9.31024.71"
+        },
+        "runtime": {
+          "MicroRabbit.Domain.Core.dll": {}
         }
       }
     }
@@ -1103,6 +1172,13 @@
       "sha512": "sha512-OiKusGL20vby4uDEswj2IgkdchC1yQ6rwbIkZDVBPIR6al2b7n3pC91elBul9q33KaBgRKhbZH3+2Ur4fnWx2A==",
       "path": "humanizer.core/2.8.26",
       "hashPath": "humanizer.core.2.8.26.nupkg.sha512"
+    },
+    "MediatR/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8b3UYNxegHVYcJMG2zH8wn+YqxLvXG+eMfj0cMCq/jTW72p6O3PCKMkrIv0mqyxdW7bA4gblsocw7n+/9Akg5g==",
+      "path": "mediatr/9.0.0",
+      "hashPath": "mediatr.9.0.0.nupkg.sha512"
     },
     "Microsoft.CSharp/4.7.0": {
       "type": "package",
@@ -1292,6 +1368,13 @@
       "sha512": "sha512-3Wrmi0kJDzClwAC+iBdUBpEKmEle8FQNsCs77fkiOIw/9oYA07bL1EZNX0kQ2OMN3xpwvl0vAtOCYY3ndDNlhQ==",
       "path": "microsoft.netcore.targets/1.1.3",
       "hashPath": "microsoft.netcore.targets.1.1.3.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Shell.Framework/16.9.31024.71": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dcW5JHQnmqsc6gu+Wae7WgD3F/WTOnxJ8gJ1HFvuYjmQs2V5ZgzXOVYY6SbtXLgflw2ndSJ5vQ5zTEMevxLFow==",
+      "path": "microsoft.visualstudio.shell.framework/16.9.31024.71",
+      "hashPath": "microsoft.visualstudio.shell.framework.16.9.31024.71.nupkg.sha512"
     },
     "Microsoft.Win32.Registry/4.7.0": {
       "type": "package",
@@ -1777,6 +1860,11 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "MicroRabbit.Banking.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MicroRabbit.Domain.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

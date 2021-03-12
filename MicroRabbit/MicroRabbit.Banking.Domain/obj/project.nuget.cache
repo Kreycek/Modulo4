@@ -1,8 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "8xvCOKIEmVgdwZWLQzxLZiieCqF9GwPzAEMaeKj7mIAdxihUHmX67kaqvnAIaSxn6gyx8kjvBFsckmzLqGLV+A==",
+  "dgSpecHash": "OOcfx9vQU9VlosrKxXrrjlTPck4AEzdZli2i+qvv+g/Ws+qdDcIvoivXMaEPcGHw6KiXqI3VRAKWIOJaTzrUhA==",
   "success": true,
   "projectFilePath": "C:\\Udemy\\MicroServices\\Modulo4\\MicroRabbit\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\Kreycek\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Kreycek\\.nuget\\packages\\microsoft.visualstudio.shell.framework\\16.9.31024.71\\microsoft.visualstudio.shell.framework.16.9.31024.71.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.VisualStudio.Shell.Framework 16.9.31024.71' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.VisualStudio.Shell.Framework",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

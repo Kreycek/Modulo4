@@ -1,0 +1,8 @@
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.deps.json
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.dll
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.pdb
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.AssemblyInfoInputs.cache
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.AssemblyInfo.cs
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.csproj.CoreCompileInputs.cache
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.dll
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.pdb

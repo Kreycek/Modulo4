@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "U5NjTCGUi8NXMkp0cipH+80AqZmltzlfkrggEUSpHPXr6Rv1HqhXiCkslDp65qlCRdcR6pyILWDvEy07L82/5w==",
+  "dgSpecHash": "fe/oLUePPAOQDX2vdmFb/jvv6+3zPE5xii0MJIz7B/7HczI0WiuxYOIis87cjbFFeIqNuysvrteY9pXAd+phww==",
   "success": true,
   "projectFilePath": "C:\\Udemy\\MicroServices\\Modulo4\\MicroRabbit\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj",
   "expectedPackageFiles": [

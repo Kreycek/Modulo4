@@ -10,3 +10,5 @@ C:\Udemy\MicroServices\Modulo4\MicroRabbit\MicroRabbit.Banking.Applicatrion\obj\
 C:\Udemy\MicroServices\Modulo4\MicroRabbit\MicroRabbit.Banking.Applicatrion\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Applicatrion.csproj.CopyComplete
 C:\Udemy\MicroServices\Modulo4\MicroRabbit\MicroRabbit.Banking.Applicatrion\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Applicatrion.dll
 C:\Udemy\MicroServices\Modulo4\MicroRabbit\MicroRabbit.Banking.Applicatrion\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Applicatrion.pdb
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MicroRabbit.Banking.Applicatrion\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MicroRabbit.Banking.Applicatrion\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb

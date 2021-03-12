@@ -18,10 +18,7 @@ namespace Microsoft.Rabbit.Infra.Bus
         private readonly IMediator _mediator;
         private readonly Dictionary<string, List<Type>> _handlers;
         private readonly List<Type> _eventType;
-        public RabbitMQBus()
-        {
-
-        }
+       
         public RabbitMQBus(IMediator mediator)
         {
             _mediator = mediator;
@@ -31,10 +28,11 @@ namespace Microsoft.Rabbit.Infra.Bus
 
         public Task SendCommand<T>(T command) where T : Command
         {
+           
             return _mediator.Send(command);
         }
 
-        public void Publish<T>(Encoder @event) where T : Event
+        public void Publish<T>(T @event) 
         {
             var factory = new ConnectionFactory() { HostName = "localhost" };
             using (var connection = factory.CreateConnection())

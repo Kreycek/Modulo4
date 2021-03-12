@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LjLYGmbLGtU06KGJkKX4CA8xQXpAMa9iy2xjqDEfZoT73QeciENC07Gp38oh5qOWKP2KB+qRqeuTq9WMk5n2pA==",
+  "dgSpecHash": "RVI/D+jvUOMLIUgRq9cTWXmaup1Zba6acgd7/fdRhQE6hPeN4BcgRgFtF7HYcTb3AIMleIzStz+8Tgn1Vfcfzw==",
   "success": true,
   "projectFilePath": "C:\\Udemy\\MicroServices\\Modulo4\\MicroRabbit\\MicroRabbit.Baking.Api\\MicroRabbit.Baking.Api.csproj",
   "expectedPackageFiles": [

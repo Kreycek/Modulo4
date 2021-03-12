@@ -1,3 +1,4 @@
+using MediatR;
 using MicroRabbit.Infra.IoC;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -31,6 +32,8 @@ namespace MicroRabbit.Baking.Api
                 c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "Banking Microservice", Version = "v1" });
             
             });
+
+            services.AddMediatR(typeof(Startup));
 
             RegisterServices(services);
         }

@@ -13,3 +13,5 @@ C:\Udemy\MicroServices\Modulo4\MicroRabbit\MIcrosoft.Banking.Data\obj\Debug\netc
 C:\Udemy\MicroServices\Modulo4\MicroRabbit\MIcrosoft.Banking.Data\obj\Debug\netcoreapp3.1\MIcrosoft.Banking.Data.csproj.CopyComplete
 C:\Udemy\MicroServices\Modulo4\MicroRabbit\MIcrosoft.Banking.Data\obj\Debug\netcoreapp3.1\MIcrosoft.Banking.Data.dll
 C:\Udemy\MicroServices\Modulo4\MicroRabbit\MIcrosoft.Banking.Data\obj\Debug\netcoreapp3.1\MIcrosoft.Banking.Data.pdb
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MIcrosoft.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+C:\Udemy\MicroServices\Modulo4\MicroRabbit\MIcrosoft.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
